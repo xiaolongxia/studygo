@@ -1,6 +1,6 @@
 package main
 
-import "github.com/xiaolongxia/studygo/publish"
+import "publish"
 
 func main() {
 	publish.PubModule()
